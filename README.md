@@ -1,6 +1,6 @@
 # Hi, I'm Téo
 
-Software Engineering Student at ISEP (Paris) with a strong interest in Full-Stack Development, Entrepreneurship, and SaaS Product Building.
+Software Engineering Student at ISEP with a strong interest in Full-Stack Development, Entrepreneurship, and SaaS Product Building.
 
 ---
 
@@ -89,7 +89,7 @@ Master's Degree in Software Engineering & Entrepreneurship
 
 ## Contact
 
-- LinkedIn: [Your LinkedIn]
+- LinkedIn: linkedin.com/in/teo-gaudin
 
 - Email: teogdn.pro@gmail.com
 
