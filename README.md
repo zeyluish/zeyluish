@@ -1,19 +1,19 @@
-# Hi, I'm Téo
+# Hi, I'm Téo 👋
 
 Software Engineering Student at ISEP with a strong interest in Full-Stack Development, Entrepreneurship, and SaaS Product Building.
 
 ---
 
-## About Me
+## 🚀 About Me
 
-- Software Engineering Student @ ISEP
-- Full-Stack Web Developer
-- Entrepreneur & SaaS Builder
-- Paris, France
+- 🎓 Software Engineering Student @ ISEP
+- 💻 Full-Stack Web Developer
+- 🚀 Entrepreneur & SaaS Builder
+- 📍 Paris, France
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 
@@ -42,7 +42,7 @@ Software Engineering Student at ISEP with a strong interest in Full-Stack Develo
 
 ---
 
-## Experience
+## 💼 Experience
 
 ### Web Developer Intern - Networks Technology
 
@@ -55,7 +55,7 @@ Main responsibilities :
 - Email integration
 - Symfony back-office development
 
-## Education
+## 🎓 Education
 
 ### ISEP — Institut Supérieur d'Électronique de Paris
 
@@ -63,7 +63,7 @@ Master's Degree in Software Engineering & Entrepreneurship
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
 - Building CowPilot MVP
 
@@ -75,7 +75,7 @@ Master's Degree in Software Engineering & Entrepreneurship
 
 ---
 
-## Goals for 2026
+## 📈 Goals for 2026
 
 - Launch the first version of CowPilot
 
@@ -87,7 +87,7 @@ Master's Degree in Software Engineering & Entrepreneurship
 
 ---
 
-## Contact
+## 📫 Contact
 
 - LinkedIn: linkedin.com/in/teo-gaudin
 
