@@ -17,7 +17,7 @@ Software Engineering Student at ISEP with a strong interest in Full-Stack Develo
 
 ### Frontend
 
-- HTML5
+- <img src="https://skillicons.dev/icons?i=html" alt="HTML" /> HTML5
 - CSS3
 - Javascript
 - Bootstrap
