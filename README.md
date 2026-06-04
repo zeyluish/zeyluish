@@ -1,16 +1,96 @@
-## Hi there 👋
+# Hi, I'm Téo
 
-<!--
-**zeyluish/zeyluish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student at ISEP (Paris) with a strong interest in Full-Stack Development, Entrepreneurship, and SaaS Product Building.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Software Engineering Student @ ISEP
+- Full-Stack Web Developer
+- Entrepreneur & SaaS Builder
+- Paris, France
+
+---
+
+## Tech Stack
+
+### Frontend
+
+- HTML5
+- CSS3
+- Javascript
+- Bootstrap
+
+### Backend
+
+- PHP
+- Symfony
+
+### Database
+
+- MySQL
+- PostgreSQL
+
+### Tools & DevOps
+
+- Git
+- GitHub
+- Docker
+- VS Code
+- PhpStorm
+
+---
+
+## Experience
+
+### Web Developer Intern - Networks Technology
+
+**September 2025 - January 2026**
+
+Main responsibilities :
+
+- Front-End development (HTML, CSS)
+- PHP development for landing pages and mini-sites
+- Email integration
+- Symfony back-office development
+
+## Education
+
+### ISEP — Institut Supérieur d'Électronique de Paris
+
+Master's Degree in Software Engineering & Entrepreneurship
+
+---
+
+## Current Focus
+
+- Building CowPilot MVP
+
+- Improving Full-Stack Development skills
+
+- Learning advanced Node.js and Docker
+
+- Preparing for an international exchange semester
+
+---
+
+## Goals for 2026
+
+- Launch the first version of CowPilot
+
+- Complete an international exchange semester
+
+- Gain experience through a Software Engineering internship
+
+- Continue growing as a Full-Stack Developer
+
+---
+
+## Contact
+
+- LinkedIn: [Your LinkedIn]
+
+- Email: teogdn.pro@gmail.com
+
+- Portfolio: [Coming Soon]
