@@ -1,15 +1,13 @@
 # Hi, I'm Téo 👋
 
-Software Engineering Student at ISEP with a strong interest in Full-Stack Development, Entrepreneurship, and SaaS Product Building.
+Software Engineering Student at ISEP with a strong interest in Full-Stack Development, Entrepreneurship.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Software Engineering Student @ ISEP
-- 💻 Full-Stack Web Developer
-- 🚀 Entrepreneur & SaaS Builder
-- 📍 Paris, France
+- 🇲🇾 Kuala Lumpur, Malaysia
 
 ---
 
@@ -36,7 +34,6 @@ Software Engineering Student at ISEP with a strong interest in Full-Stack Develo
 
 - Git
 - GitHub
-- Docker
 - VS Code
 - PhpStorm
 
@@ -65,25 +62,15 @@ Master's Degree in Software Engineering & Entrepreneurship
 
 ## 🎯 Current Focus
 
-- Building CowPilot MVP
-
 - Improving Full-Stack Development skills
 
-- Learning advanced Node.js and Docker
+## 📈 Goals for 2027
 
-- Preparing for an international exchange semester
-
----
-
-## 📈 Goals for 2026
-
-- Launch the first version of CowPilot
+- Continue growing as a Full-Stack Developer
 
 - Complete an international exchange semester
 
 - Gain experience through a Software Engineering internship
-
-- Continue growing as a Full-Stack Developer
 
 ---
 
