@@ -1,6 +1,6 @@
 # Hi, I'm Téo 👋
 
-Software Engineering Student at ISEP with a strong interest in Full-Stack Development, Entrepreneurship.
+Software Engineering student at ISEP, currently on an international exchange at UCSI University, with interests in full-stack development and entrepreneurship.
 
 ---
 
