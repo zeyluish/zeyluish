@@ -58,6 +58,13 @@ Main responsibilities :
 
 Master's Degree in Software Engineering & Entrepreneurship
 
+Throughout my degree, I explored a broad range of digital technologies and progressively built a focus in software development.
+
+- **Broad technical foundation:** networking, electronics, signal processing, and cybersecurity.
+- **First year:** specialized in web development.
+- **Second year:** focused on software engineering to build strong development practices, including Agile methodologies and software testing.
+- **Entrepreneurial track:** developed a project from the initial idea and business plan through to a pitch presented to a jury of seven entrepreneurs.
+
 ### UCSI University — Kuala Lumpur, Malaysia
 
 **International Exchange Semester | September 2026 - January 2027**  
