@@ -55,6 +55,24 @@ Worked with a team of five developers and a Product Owner on Peppersoft, a local
 
 ---
 
+## Academic Projects
+
+### Meet & Do
+
+Activity platform developed in two team projects, evolving from a PHP/MySQL application to a NestJS/PostgreSQL MVP.
+
+- **First year:** HTML, CSS, JavaScript, PHP, AJAX and MySQL. Contributed to front-end and PHP back-end development and database work. Collaborated using GitHub and Jira. Completed; repository link not available in this README.
+- **Second year:** HTML, CSS, JavaScript, Bootstrap, NestJS and PostgreSQL. Contributed to the front end, NestJS controllers and services, and database work. The team MVP supported discovering, creating and joining activities. Used feature branches, Jira, pull requests and code reviews. [View repository](https://github.com/integeek/MeetAndDo).
+
+### Nevo
+
+Gamified routine-management application concept, including daily routines such as medication-taking, developed by a team of three.
+
+- Focused on Agile practices including sprints, user stories, personas and story mapping, with Jira and GitHub pull requests/code reviews.
+- Emphasised testing and software quality. [View repository](https://github.com/integeek/Nevo).
+
+---
+
 ## Education
 
 ### ISEP — Institut Supérieur d'Électronique de Paris (September 2024 – June 2027)
