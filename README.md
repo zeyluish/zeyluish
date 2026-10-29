@@ -23,6 +23,7 @@ Software Engineering Student at ISEP with a strong interest in Full-Stack Develo
 ### Backend
 
 - PHP
+- Python
 - Symfony
 
 ### Database
