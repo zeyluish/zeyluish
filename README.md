@@ -54,7 +54,7 @@ Main responsibilities :
 
 ## 🎓 Education
 
-### ISEP — Institut Supérieur d'Électronique de Paris
+### ISEP — Institut Supérieur d'Électronique de Paris (September 2024 - June 2027)
 
 Master's Degree in Software Engineering & Entrepreneurship
 
