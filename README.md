@@ -58,6 +58,14 @@ Main responsibilities :
 
 Master's Degree in Software Engineering & Entrepreneurship
 
+### UCSI University — Kuala Lumpur, Malaysia
+
+**International Exchange Semester | September 2026 - January 2027**  
+Master of Digital Technology and Analytics
+
+- Developing practical Python skills for data science and analytics, from programming fundamentals to analytical applications.
+- Studying research methods to support structured, evidence-based analysis and problem-solving.
+
 ---
 
 ## 🎯 Current Focus
