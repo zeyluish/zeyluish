@@ -7,6 +7,7 @@ Software Engineering Student at ISEP with a strong interest in Full-Stack Develo
 ## 🚀 About Me
 
 - 🎓 Software Engineering Student @ ISEP
+- 🌏 International exchange student at UCSI University
 - 🇲🇾 Kuala Lumpur, Malaysia
 
 ---
