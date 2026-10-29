@@ -81,6 +81,8 @@ Master of Digital Technology and Analytics
 
 - Improving Full-Stack Development skills
 
+- Actively seeking a final-year internship in Australia
+
 ## 📈 Goals for 2027
 
 - Continue growing as a Full-Stack Developer
