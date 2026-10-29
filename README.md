@@ -96,6 +96,12 @@ Master of Digital Technology and Analytics
 
 ---
 
+## Certification
+
+- **TOEIC:** 855 (May 2025)
+
+---
+
 ## Current Focus and Goals
 
 - Continuing to develop as a full-stack software engineer.
