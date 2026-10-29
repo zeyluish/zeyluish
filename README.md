@@ -89,7 +89,7 @@ Master of Digital Technology and Analytics
 
 - Complete an international exchange semester
 
-- Gain experience through a Software Engineering internship
+- Gain experience as a Software Engineer during a final-year internship, ideally in Australia
 
 ---
 
